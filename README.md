@@ -35,5 +35,5 @@ I'm passionate about building reliable data pipelines, optimizing data architect
 
 ### 📫 Let's Connect
 
-*   💼 **LinkedIn:** [Connect with me on LinkedIn](ссылка_на_твой_профиль)
-*   📧 **Reach out:** [Твой_email@example.com](mailto:твой_email@example.com)
+*   💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/daniel-barsoukov)
+*   📧 **Reach out:** [Твой_email@example.com](barsoukovd@gmail.com)
