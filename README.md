@@ -18,9 +18,8 @@ I'm passionate about building reliable data pipelines, optimizing data architect
 ---
 
 ### 🚀 What I'm currently working on
-
-*   🎓 Deep diving into the **Data Engineering Zoomcamp** (Mastering Docker, Cloud Warehousing, dbt, Apache Kafka, and Orchestration).
-*   🏗️ Building scalable end-to-end data pipelines and exploring modern analytics engineering.
+*   🎓 Deep diving nto the **Data Engineering Zoomcamp** (Mastering Docker, Cloud Warehousing, dbt, Apache Kafka, and Orchestration).
+*   🏗️ **[AI-Powered Financial Market ELT Pipeline](https://github.com/cocojambo2316/ai-powered-financial-pipeline)** with automated schema assertions and LLM observability.
 
 ---
 
